@@ -1,0 +1,4 @@
+pycryptodome>=3.17
+cryptography>=41.0
+pytest>=7.0
+ruff>=0.20.0
